@@ -22,3 +22,15 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+# String Calculator TDD Kata
+
+## Features
+- Add numbers in a string
+- Supports comma and newline delimiters
+- Custom delimiters via `//;\n` syntax
+- Raises error for negative numbers
+
+## Tech
+- Ruby 3.2.2, Rails 8.0.2
+- RSpec for TDD
